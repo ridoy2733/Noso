@@ -1,0 +1,5 @@
+{
+  "name": "NoorStream",
+  "description": "A YouTube-like video sharing platform focused on Islamic content, featuring video uploads, profiles, and a responsive player interface.",
+  "requestFramePermissions": []
+}
